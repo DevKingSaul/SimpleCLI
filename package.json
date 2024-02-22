@@ -1,0 +1,19 @@
+{
+  "name": "simplecli",
+  "version": "1.0.0",
+  "description": "A Simple Command-Line Arguments Parser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevKingSaul/SimpleCLI.git"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "DevKingSaul",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DevKingSaul/SimpleCLI/issues"
+  },
+  "homepage": "https://github.com/DevKingSaul/SimpleCLI#readme"
+}
