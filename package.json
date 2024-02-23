@@ -1,5 +1,5 @@
 {
-  "name": "simplecli",
+  "name": "simpleclarg",
   "version": "1.0.0",
   "description": "A Simple Command-Line Arguments Parser",
   "main": "index.js",
